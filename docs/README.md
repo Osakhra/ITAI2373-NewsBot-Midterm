@@ -13,13 +13,9 @@ The NewsBot Intelligence System is an end-to-end Natural Language Processing (NL
 ## Repository Structure
 ITAI2373-NewsBot-Midterm/
 │
-
 ├── data/
-
 │ └── BBC News Train.csv # Original dataset
-
 │
-
 ├── notebooks/
 
 │ └── newsbot_pipeline.ipynb # Main notebook
