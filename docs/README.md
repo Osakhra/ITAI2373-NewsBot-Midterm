@@ -42,11 +42,11 @@ ITAI2373-NewsBot-Midterm/
 - **Entity Recognition:** Extracts and summarizes key people, organizations, and places.
 
 ## Team Contributions
-| Name           | Modules/Responsibilities                          |
-|----------------|---------------------------------------------------|
-| John Castor    | Preprocessing, Sentiment, Documentation           |
-|                | Classification, NER, Data Setup                   |
-|                | Feature Extraction, POS, Syntax Analysis          |
+| Name              | Modules/Responsibilities                          |
+|-------------------|---------------------------------------------------|
+| John Castor       | Preprocessing, Sentiment, Documentation           |
+| Dylan Castillo    | Classification, NER, Data Setup                   |
+| Milagros Pumasupa | Feature Extraction, POS, Syntax Analysis          |
 
 ## Demo & Presentation
 - Video Walkthrough: 
