@@ -47,6 +47,7 @@ ITAI2373-NewsBot-Midterm/
 | John Castor       | Preprocessing, Sentiment, Documentation           |
 | Dylan Castillo    | Classification, NER, Data Setup                   |
 | Milagros Pumasupa | Feature Extraction, POS, Syntax Analysis          |
+| Ola Bakare        | Feature Extraction, POS, Syntax Analysis          |
 
 ## Demo & Presentation
 - Video Walkthrough: 
