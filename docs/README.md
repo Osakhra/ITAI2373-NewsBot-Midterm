@@ -50,7 +50,7 @@ ITAI2373-NewsBot-Midterm/
 | Ola Bakare        | Named Entity Recognition, notebook organization   |
 
 ## Demo & Presentation
-- Video Walkthrough: 
+- Video Walkthrough: https://youtu.be/1xrNLgBblAo
 
 ## Next Steps / Future Improvements
 - Integrate more advanced models (e.g., SVM, BERT)
